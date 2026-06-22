@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/idris-id">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/idris-id-9577bb56/">LinkedIn</a> ·
   <a href="mailto:idrisnotebook@gmail.com">Email</a>
 </p>
 
