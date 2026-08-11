@@ -38,10 +38,10 @@
 
 Contributing bug fixes and features to widely-used open-source projects under community code review:
 
-- 🔧 **[Micronaut Framework](https://github.com/micronaut-projects/micronaut-core/pull/12690)** — Fixed a KSP annotation processor bug causing incorrect generic type resolution for Kotlin suspend functions returning typealiases, preventing `ClassCastException` during deserialization.
+- 🔧 **[Micronaut Framework](https://github.com/micronaut-projects/micronaut-core/pull/12690)** — Fixed a KSP annotation processor bug causing incorrect generic type resolution for Kotlin suspend functions returning typealiases, preventing `ClassCastException` during deserialization. **MERGED**
 - 🔧 **[PrestoDB](https://github.com/prestodb/presto/pull/27909)** — Fixed a query optimizer bug where constant aggregation arguments (e.g. percentile values) were incorrectly nullified during mixed distinct/non-distinct aggregation optimization; added unit and native integration tests.
 - 🔧 **[Chatwoot](https://github.com/chatwoot/chatwoot/pull/14797)** — Fixed a Help Center API issue to support article lookup by portal ID in addition to slug, with collision handling and test coverage.
-- 🔧 **[omni-tools](https://github.com/iib0011/omni-tools/pull/374)** — Built a client-side "Images to GIF" feature for privacy-preserving, server-less file conversion.
+- 🔧 **[omni-tools](https://github.com/iib0011/omni-tools/pull/374)** — Built a client-side "Images to GIF" feature for privacy-preserving, server-less file conversion. **MERGED**
 
 *(PR statuses current as of submission — check links for latest status)*
 
