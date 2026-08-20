@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Idris 👋</h1>
-<h3 align="center">Java Backend Engineer | Banking & Payment Systems | Enterprise Integration</h3>
+<h3 align="center">Java Backend Engineer | Enterprise Integration</h3>
 
 <p align="center">
   10+ years building backend systems for banking, payments, and enterprise integration.<br/>
