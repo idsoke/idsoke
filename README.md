@@ -23,7 +23,6 @@
 |---|---|---|
 | [**Customer Churn MLOps**](https://github.com/idsoke/customer-churn-mlops) · [live demo](https://fe-customer-churn-mlops.vercel.app) | End-to-end churn prediction, from data pipeline to a live web UI. ROC-AUC 0.988, 84.2% recall. Frontend in [fe-customer-churn-mlops](https://github.com/idsoke/fe-customer-churn-mlops). | Python, scikit-learn, DVC, FastAPI, Angular 22 |
 | [**Sahm**](https://github.com/idsoke/sahm) · [live](https://sahm.sahm-web.workers.dev) | Indonesian sharia stocks per OJK's Sharia Securities List: status, prices, movers and a screener. Built on [fzn0x/idx](https://github.com/fzn0x/idx). | Rust, Cloudflare Workers |
-| [**mymemory-ai**](https://github.com/idsoke/mymemory-ai) | Local knowledge-graph memory for AI coding assistants, served over MCP. | Python, MCP, SQLite FTS5 |
 | [**Warungku POS**](https://github.com/idsoke/idris-pos) | Multi-tenant point of sale for small shops. | Java 21, Spring Boot, JWT, Next.js |
 | [**idris-taskapi**](https://github.com/idsoke/idris-taskapi) | Task management REST API with JWT auth and per-user data. | Node.js, Express, PostgreSQL |
 
