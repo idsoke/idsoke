@@ -39,6 +39,7 @@
 **In review**
 - **[PrestoDB](https://github.com/prestodb/presto/pull/27909)**: fix for constant aggregation arguments being nulled during mixed distinct/non-distinct aggregation optimization, with unit and native tests.
 - **[Spring AI](https://github.com/spring-projects/spring-ai/pull/7290)**: clarified retry configuration in the OpenAI docs.
+- **[graphql-java](https://github.com/graphql-java/graphql-java/pull/4561)**: documented what `Coercing.valueToLiteral` receives and when the engine calls it, with a test that pins the behaviour.
 
 ---
 
