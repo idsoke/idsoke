@@ -31,12 +31,12 @@
 ### 🌍 Open-source contributions
 
 **Merged**
+- **[OpenSearch neural-search](https://github.com/opensearch-project/neural-search/pull/1971)**: fixed inaccurate `hits.total.value` on hybrid queries with a small `size`.
 - **[Micronaut](https://github.com/micronaut-projects/micronaut-core/pull/12690)**: fixed the KSP processor resolving the wrong generic types for Kotlin suspend functions that return typealiases, which caused a `ClassCastException` during deserialization.
 - **[Nakama](https://github.com/ahmadrosid/nakama/pulls?q=is%3Apr+author%3Aidsoke+is%3Amerged)** (4 PRs): automations now [resume from the last saved tool step](https://github.com/ahmadrosid/nakama/pull/1592) after a restart; [rejected malformed API keys](https://github.com/ahmadrosid/nakama/pull/730); [fixed a terminal raw-mode leak](https://github.com/ahmadrosid/nakama/pull/801); [tidied sub-agent child chats](https://github.com/ahmadrosid/nakama/pull/2225).
 - **[omni-tools](https://github.com/iib0011/omni-tools/pull/374)**: built the client-side "Images to GIF" tool, then [added drag-and-drop](https://github.com/iib0011/omni-tools/pull/458) to it.
 
 **In review**
-- **[OpenSearch neural-search](https://github.com/opensearch-project/neural-search/pull/1971)**: fix for inaccurate `hits.total.value` on hybrid queries with a small `size`.
 - **[PrestoDB](https://github.com/prestodb/presto/pull/27909)**: fix for constant aggregation arguments being nulled during mixed distinct/non-distinct aggregation optimization, with unit and native tests.
 - **[Spring AI](https://github.com/spring-projects/spring-ai/pull/7290)**: clarified retry configuration in the OpenAI docs.
 
