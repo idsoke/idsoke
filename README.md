@@ -35,11 +35,11 @@
 - **[Micronaut](https://github.com/micronaut-projects/micronaut-core/pull/12690)**: fixed the KSP processor resolving the wrong generic types for Kotlin suspend functions that return typealiases, which caused a `ClassCastException` during deserialization.
 - **[Nakama](https://github.com/ahmadrosid/nakama/pulls?q=is%3Apr+author%3Aidsoke+is%3Amerged)** (5 PRs): automations now [resume from the last saved tool step](https://github.com/ahmadrosid/nakama/pull/1592) after a restart; [rejected malformed API keys](https://github.com/ahmadrosid/nakama/pull/730); [fixed a terminal raw-mode leak](https://github.com/ahmadrosid/nakama/pull/801); [tidied sub-agent child chats](https://github.com/ahmadrosid/nakama/pull/2225); [named the setting that allows a refused origin](https://github.com/ahmadrosid/nakama/pull/2567) in the server error.
 - **[omni-tools](https://github.com/iib0011/omni-tools/pulls?q=is%3Apr+author%3Aidsoke+is%3Amerged)** (2 PRs): [built the client-side "Images to GIF" tool](https://github.com/iib0011/omni-tools/pull/374), then [added drag-and-drop](https://github.com/iib0011/omni-tools/pull/458) to it.
+- **[graphql-java](https://github.com/graphql-java/graphql-java/pull/4561)**: documented what `Coercing.valueToLiteral` receives and when the engine calls it, with a test that pins the behaviour.
 
 **In review**
 - **[PrestoDB](https://github.com/prestodb/presto/pull/27909)**: fix for constant aggregation arguments being nulled during mixed distinct/non-distinct aggregation optimization, with unit and native tests.
 - **[Spring AI](https://github.com/spring-projects/spring-ai/pull/7290)**: clarified retry configuration in the OpenAI docs.
-- **[graphql-java](https://github.com/graphql-java/graphql-java/pull/4561)**: documented what `Coercing.valueToLiteral` receives and when the engine calls it, with a test that pins the behaviour.
 
 ---
 
